@@ -1,0 +1,1001 @@
+﻿html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+
+
+
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #1b2838!important;
+            
+    background-size: cover;
+    color: #c7d5e0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #171a21;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    color: #c7d5e0;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+    .logo img {
+        height: 32px;
+        margin-right: 10px;
+    }
+
+nav {
+    display: flex;
+    gap: 15px;
+}
+
+    nav a {
+        text-decoration: none;
+        color: #c7d5e0;
+        font-size: 14px;
+        padding: 5px 10px;
+        border-radius: 4px;
+        transition: background-color 0.3s;
+    }
+
+        nav a:hover {
+            background-color: #2a475e;
+        }
+
+.user-menu {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+    .user-menu button {
+        background-color: #5c7e10;
+        color: white;
+        border: none;
+        padding: 6px 12px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+    }
+
+        .user-menu button:hover {
+            background-color: #4b693c;
+        }
+
+    .user-menu a {
+        text-decoration: none;
+        color: #c7d5e0;
+        font-size: 14px;
+    }
+
+footer {
+    background-color: #171a21;
+    padding: 20px;
+    color: #c7d5e0;
+    font-size: 14px;
+}
+
+.footer-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+    .footer-links a {
+        text-decoration: none;
+        color: #c7d5e0;
+        transition: color 0.3s;
+    }
+
+        .footer-links a:hover {
+            color: #ffffff;
+        }
+
+.footer-copyright {
+    text-align: center;
+}
+
+
+
+
+/* Slider Container */
+.slider-container {
+    position: relative;
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/* Slider */
+.slider {
+    display: flex;
+    transition: transform 0.5s ease;
+}
+
+/* Slider Item */
+.slider-item {
+    min-width: 100%;
+    box-sizing: border-box;
+}
+
+    .slider-item img {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+    }
+
+/* Arrows */
+.prev, .next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 30px;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    z-index: 10;
+}
+
+.prev {
+    left: 10px;
+}
+
+.next {
+    right: 10px;
+}
+
+    .prev:hover, .next:hover {
+        background-color: rgba(0, 0, 0, 0.7);
+    }
+
+
+
+/* Menü Container */
+.menu-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+/* Menü Öğesi */
+.menu-item {
+    position: relative;
+    width: 300px;
+    height: 450px;
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+/* Resim */
+.game-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+/* Fiyat Etiketi */
+.price {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    font-size: 18px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+/* Overlay */
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/* Video */
+.game-video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+}
+
+/* Bilgi Kısmı */
+.info {
+    text-align: center;
+    z-index: 1;
+}
+
+.game-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.game-category {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.add-to-cart {
+    background-color: #ff5c5c;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+    .add-to-cart:hover {
+        background-color: #ff3b3b;
+    }
+
+/* Menü Öğesi Hover Durumu */
+.menu-item:hover .overlay {
+    opacity: 2;
+}
+
+
+/*Tablo Kısmı*/
+
+/* Table Styles */
+.table {
+    width: 100%;
+    margin-top: 20px;
+}
+
+    .table th, .table td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    .table th {
+        font-size: 1.1em;
+        color: #ffffff;
+    }
+
+    .table img.game-img {
+        width: 80px;
+        height: 80px;
+        object-fit: cover;
+        border-radius: 8px;
+    }
+
+/* Pagination Styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.page-item.active .page-link {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+}
+
+.page-item .page-link {
+    color: #007bff;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+    .page-item .page-link:hover {
+        background-color: #0056b3;
+        color: white;
+    }
+
+/* Button Styles */
+.btn {
+    font-weight: bold;
+    border-radius: 20px;
+    padding: 8px 20px;
+}
+
+.btn-info {
+    background-color: #17a2b8;
+}
+
+.btn-warning {
+    background-color: #ffc107;
+}
+
+.btn-danger {
+    background-color: #dc3545;
+}
+
+.btn-primary {
+    background-color: #007bff;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.d-flex {
+    margin-top: 20px;
+}
+
+.my-4 {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+
+/* Genel kart stili */
+.game-card {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 400px; /* Kartın yüksekliğini arttırdık */
+    margin-bottom: 20px;
+}
+
+/* Resim divi, başlangıçta sadece resim görünür */
+.image-container {
+    position: relative;
+    width: 100%;
+    height: 100%; /* Resim boyutunu kutu ile uyumlu hale getirdik */
+}
+
+/* Resim ve video tam kutuyu kapsayacak şekilde */
+.game-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Resim tam olarak alanı kaplayacak şekilde */
+    transition: opacity 0.3s ease;
+}
+
+/* Video ve oyun bilgileri başlangıçta gizli */
+.game-info {
+    
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7); /* Koyu bir arka plan */
+    color: white;
+    opacity: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    transition: opacity 0.3s ease;
+    z-index: 2; /* Butonların üstte olması için */
+}
+
+/* Video tam kutuyu kaplayacak şekilde */
+.game-video {
+    width: 100%;
+    height: 100%; /* Video boyutunu %100 yaptık */
+    object-fit: cover; /* Video da alanı tamamen kaplayacak şekilde */
+    display: block;
+    margin-bottom: 10px;
+}
+
+/* Kart üzerine gelindiğinde, video ve oyun bilgilerini göster */
+.game-card:hover .game-info {
+    opacity: 1;
+}
+
+.game-card:hover .game-image {
+    opacity: 0;
+}
+
+/* Oyun ismi, türü, fiyatı, açıklamayı ayıran margin */
+.game-name, .game-genre, .game-price, .game-description {
+    margin-bottom: 10px;
+}
+
+/* Butonlar */
+.game-info .btn {
+    margin-top: 10px;
+    z-index:3;
+}
+
+.no-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #666;
+    color: white;
+    height: 100%;
+    text-align: center;
+}
+
+
+
+/* Slider Resimlerinin Boyutunu Ayarlamak */
+.carousel-inner img {
+    width: 100%;
+    height: 400px; /* Yüksekliği 400px yaparak tüm görüntüler aynı boyutta olacak */
+    object-fit: cover;
+    border-radius: 50px;
+    margin-top:30px;
+    border:6px solid white;
+}
+
+/* Slider Düğmeleri */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    
+    border-radius: 50%;
+}
+
+#imageSlider {
+    border-radius:50px;
+}
+
+
+/*detaylar*/
+
+/* Oyun Detayları Sayfası için Stil */
+/* Genel Konteyner ve Düzen */
+.game-detail-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Video Oynatıcı Bölümü */
+.game-video-section {
+    flex: 1;
+    min-width: 50%;
+}
+
+.game-video {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Oyun Bilgileri Bölümü */
+.game-info-section {
+    flex: 1;
+    min-width: 300px;
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Başlık ve Bilgiler */
+.game-header {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 15px;
+    margin-bottom: 20px;
+}
+
+.game-title {
+    font-size: 2rem;
+    color: #333;
+    margin: 0;
+}
+
+.game-genre {
+    font-size: 1.2rem;
+    color: #555;
+}
+
+/* Detaylar ve Fiyat */
+.game-details p {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 10px;
+}
+
+.game-price-section {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.game-price {
+    font-size: 1.5rem;
+    color: #28a745;
+}
+
+    .game-price .btn {
+        padding: 10px 20px;
+        font-size: 1.1rem;
+    }
+
+/* Açıklama */
+.game-description {
+    margin-top: 30px;
+}
+
+    .game-description h3 {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+    }
+
+    .game-description p {
+        font-size: 1rem;
+        color: #555;
+    }
+
+/* Modal Stil */
+.modal-content {
+    border-radius: 10px;
+}
+
+.modal-body video {
+    width: 100%;
+}
+
+
+
+.steam-detail-page {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+.game-title {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.steam-detail-page p {
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.steam-detail-page .btn-primary {
+    background-color: #007bff;
+    border: none;
+    padding: 0.8rem 2rem;
+    font-size: 1.1rem;
+    border-radius: 4px;
+}
+
+.steam-detail-page video {
+    border: 1px solid #ccc;
+}
+
+.steam-detail-page img {
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.col-md-8 {
+    
+}
+
+.col-md-8 p {
+    line-height: 32px;
+    color: white;
+    font-family: 'Cascadia Code';
+}
+
+.col-md-8 h1 {
+    color: white;
+    font-weight: 600;
+    font-family:'Franklin Gothic';
+    text-transform:uppercase;
+    line-height:60px;
+}
+
+
+#gameVideo {
+    max-width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.text-end {
+    display: flex!important;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin-bottom: 100px;
+    margin-left: 600px;
+    
+}
+
+.text-end p {
+    margin: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #333;
+}
+
+.text-end a {
+    margin-top: 10px;
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: rgb(35, 31, 31);
+    color: white;
+    border-radius: 10px;
+    font-size: 1.2rem;
+    transition: all 0.3s ease;
+}
+
+.text-end a:hover {
+    background-color: rgb(197, 197, 197);
+    color: black;
+}
+
+
+
+.text-end:hover {
+    transform:translate(20)!important;
+    
+}
+
+.text-end h2 {
+    color:orangered!important;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:600;
+    font-size:20px;
+}
+
+/* Genel Temalar */
+/* Genel Ayarlar */
+
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Hero Bölümü */
+.witcher-hero {
+    position: relative;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.witcher-title {
+    font-size: 4.5rem;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
+
+.witcher-genre {
+    font-size: 1.2rem;
+    color: #bbb;
+    margin-top: 10px;
+}
+
+/* Video Bölümü */
+.witcher-video-wrapper {
+    position: relative;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+}
+
+.witcher-video {
+    width: 100%;
+    height: auto;
+    border: 0;
+}
+
+/* Satın Alma Kutusu */
+.purchase-box {
+    margin-top: 20px;
+    text-align: center;
+    margin-left:450px;
+}
+
+.witcher-btn {
+    display: inline-block;
+    background-color: #d4af37;
+    color: #0c0c0c;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+    .witcher-btn:hover {
+        background-color: #f5d375;
+        color: #121212;
+    }
+
+/* Oyun Bilgileri */
+.witcher-details {
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+}
+
+    .witcher-details h3 {
+        color: #d4af37;
+        border-bottom: 2px solid #d4af37;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+
+/* Açıklama */
+.witcher-description-box {
+    background: #121212;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+}
+
+    .witcher-description-box h3 {
+        color: #d4af37;
+        border-bottom: 2px solid #d4af37;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+
+/* Kullanıcı Yorumları */
+.witcher-reviews {
+    background: #1a1a1a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
+}
+
+    .witcher-reviews h3 {
+        color: #d4af37;
+        border-bottom: 2px solid #d4af37;
+        padding-bottom: 10px;
+        margin-bottom: 15px;
+    }
+
+/* Responsive Tasarım */
+@media (max-width: 768px) {
+    .witcher-title {
+        font-size: 2rem;
+    }
+
+    .witcher-btn {
+        font-size: 1rem;
+        padding: 8px 15px;
+    }
+}
+
+
+
+/*ABOUT*/
+
+h1, h2, h3 {
+    margin: 0;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+/* Header */
+.about-header {
+    text-align: center;
+    padding: 20px 0;
+    background: linear-gradient(135deg, #1f1f1f, #000000);
+    color: #ffffff;
+    border-bottom: 3px solid #333;
+}
+
+    .about-header h1 {
+        font-size: 2.8rem;
+        letter-spacing: 2px;
+        text-shadow: 2px 2px 4px #000;
+    }
+
+/* Ana Görsel */
+.hero-section {
+    position: relative;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+    .hero-section img {
+        width: 100%;
+        height: auto;
+        border-radius: 15px;
+        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.4);
+    }
+
+/* İçerik */
+.about-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.about-intro p {
+    font-size: 1.1rem;
+    color: #cccccc;
+    margin-bottom: 15px;
+    text-align: justify;
+    line-height: 1.8;
+    transition: all 0.3s ease;
+}
+
+    .about-intro p:hover {
+        color: #ffffff;
+    }
+
+/* Ekibimiz */
+.team-section h2,
+.features-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #e0e0e0;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #444;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.team-gallery {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    gap: 20px;
+}
+
+.team-member {
+    text-align: center;
+    color: #f5f5f5;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    padding: 50px;
+    background-color:rgba(222,222,23,0.1);
+    border-radius:30px;
+}
+
+    .team-member:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 20px rgba(255, 255, 255, 0.2);
+    }
+
+    .team-member img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        margin-bottom: 10px;
+        border: 2px solid #555;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .team-member h3 {
+        font-size: 1.2rem;
+        margin: 10px 0;
+        color: #ddd;
+    }
+
+    .team-member p {
+        font-size: 0.9rem;
+        color: #aaa;
+    }
+
+/* Öne Çıkan Özellikler */
+.features-section ul {
+    list-style-type: none;
+    padding: 0;
+    margin-top: 20px;
+    text-align: center;
+}
+
+    .features-section ul li {
+        font-size: 1.1rem;
+        color: #cccccc;
+        margin-bottom: 10px;
+        position: relative;
+    }
+
+        .features-section ul li:before {
+            content: "✓";
+            color: #0dcaf0;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+
+        .features-section ul li:hover {
+            color: #ffffff;
+        }
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .team-gallery {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .team-member {
+        margin-bottom: 20px;
+    
+    }
+}
+
+
+

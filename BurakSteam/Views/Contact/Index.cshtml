@@ -1,0 +1,121 @@
+﻿@model BurakSteam.Models.ContactForm
+
+@{
+    ViewData["Title"] = "İletişim";
+}
+<style>
+    /* Genel Stil */
+body {
+    background: url('https://path/to/witcher-theme-background.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    margin: 0;
+}
+
+/* Container */
+.contact-form-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 40px;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 15px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.8);
+    text-align: center;
+    animation: fadeIn 2s ease-out;
+}
+
+/* Başlık */
+h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-family: 'Garamond', serif;
+    color: #f3f3f3;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Form Alanları */
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 10px;
+    background: #333;
+    color: #f3f3f3;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+input:focus, textarea:focus {
+    border: 2px solid #ff4500;
+    outline: none;
+}
+
+/* Button */
+.btn-submit {
+    padding: 10px 20px;
+    background: linear-gradient(to right, #ff4500, #d9534f);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-submit:hover {
+    background: linear-gradient(to left, #ff4500, #d9534f);
+    transform: scale(1.1);
+}
+
+/* Success Message */
+.alert {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* Animasyon */
+
+
+</style>
+<div class="contact-form-container">
+    <h2>@ViewData["Title"]</h2>
+
+    @if (TempData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success">
+            @TempData["SuccessMessage"]
+        </div>
+    }
+
+    <form asp-action="Submit" method="post">
+        <div class="form-group">
+            <label for="Name">Adınız</label>
+            <input type="text" id="Name" name="Name" class="form-control" value="@Model.Name" required />
+        </div>
+        <div class="form-group">
+            <label for="Email">E-posta</label>
+            <input type="email" id="Email" name="Email" class="form-control" value="@Model.Email" required />
+        </div>
+        <div class="form-group">
+            <label for="Message">Mesajınız</label>
+            <textarea id="Message" name="Message" class="form-control" rows="5" required>@Model.Message</textarea>
+        </div>
+        <button type="submit" class="btn btn-submit">Mesajı Gönder</button>
+    </form>
+</div>

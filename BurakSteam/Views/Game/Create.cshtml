@@ -1,0 +1,87 @@
+﻿@model BurakSteam.Models.Game
+
+@{
+    ViewData["Title"] = "Yeni Oyun Ekle";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" enctype="multipart/form-data">
+    <!-- Oyun Bilgileri -->
+    <div class="form-group">
+        <label asp-for="Name" class="control-label">Oyun Adı</label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Genre" class="control-label">Tür</label>
+        <input asp-for="Genre" class="form-control" />
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Price" class="control-label">Fiyat</label>
+        <input asp-for="Price" class="form-control" type="number" step="0.01" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description" class="control-label">Açıklama</label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <!-- Oyun Detayları (GameDetails) -->
+    <div class="form-group">
+        <label asp-for="GameDetails.Title" class="control-label">Detay Başlığı</label>
+        <input asp-for="GameDetails.Title" class="form-control" />
+        <span asp-validation-for="GameDetails.Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Developer" class="control-label">Geliştirici</label>
+        <input asp-for="GameDetails.Developer" class="form-control" />
+        <span asp-validation-for="GameDetails.Developer" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Publisher" class="control-label">Yayıncı</label>
+        <input asp-for="GameDetails.Publisher" class="form-control" />
+        <span asp-validation-for="GameDetails.Publisher" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Series" class="control-label">Seri</label>
+        <input asp-for="GameDetails.Series" class="form-control" />
+        <span asp-validation-for="GameDetails.Series" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Languages" class="control-label">Diller</label>
+        <input asp-for="GameDetails.Languages" class="form-control" />
+        <span asp-validation-for="GameDetails.Languages" class="text-danger"></span>
+    </div>
+
+    <!-- Resim Yükleme -->
+    <div class="form-group">
+        <label>Kapak Resmi Yükle</label>
+        <input type="file" name="imageFile" class="form-control" />
+    </div>
+
+    <!-- Video Yükleme -->
+    <div class="form-group">
+        <label>Video Yükle</label>
+        <input type="file" name="videoFile" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <input type="submit" value="Ekle" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

@@ -1,0 +1,173 @@
+﻿@model List<Purchase>
+
+@{
+    ViewData["Title"] = "Sepetim";
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+           
+   
+            justify-content: center;
+            align-items: center;
+     
+        }
+
+        .container {
+            width: 80%;
+            max-width: 900px;
+            background-color: #fff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            border-radius: 8px;
+        }
+
+        h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .alert {
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .alert-success {
+            background-color: #28a745;
+            color: #fff;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            table-layout: fixed; /* Sabit genişlikler ile düzenleme */
+        }
+
+        .table th, .table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+            overflow: hidden;
+            text-overflow: ellipsis; /* Taşan metinler için üç nokta */
+            white-space: nowrap; /* Metnin satır sonunda kesilmesini engeller */
+        }
+
+        .table th {
+            background-color: #f1f1f1;
+            font-weight: bold;
+            max-width: 250px; /* Oyun adı için sabit genişlik */
+        }
+
+        .table td {
+            font-size: 16px;
+            max-width: 200px; /* Fiyat için sabit genişlik */
+        }
+
+        h3 {
+            font-size: 18px;
+            color: #333;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .btn-success {
+            background-color: #28a745;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background-color: #218838;
+        }
+
+        .btn-secondary {
+            background-color: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background-color: #5a6268;
+        }
+
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            justify-content: space-between;
+        }
+
+   
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Sepetiniz</h2>
+
+        @if (TempData["SuccessMessage"] != null)
+        {
+            <div class="alert alert-success">
+                @TempData["SuccessMessage"]
+            </div>
+        }
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Oyun Adı</th>
+                    <th>Fiyat</th>
+                    <th>İşlem</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var purchase in Model)
+                {
+                    <tr>
+                        <td>@purchase.Game?.Name</td>
+                        <td>@purchase.Price.ToString("C")</td>
+                        <td>
+                            <form method="post" asp-action="RemoveFromCart" asp-route-purchaseId="@purchase.Id" onsubmit="return confirm('Bu oyunu sepete eklemekten emin misiniz?');">
+                                <button type="submit" class="btn btn-danger">
+                                    <i class="fas fa-trash-alt"></i> Sil
+                                </button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <h3>Toplam Fiyat: @ViewBag.TotalPrice.ToString("C")</h3>
+
+        <!-- Satın alma işlemini başlatan buton -->
+        <form method="post" asp-action="ProceedToPayment">
+            <button type="submit" class="btn btn-success">Satın Al</button>
+        </form>
+
+        <div class="btn-group">
+            <!-- Kullanıcıyı alışverişe devam etmeye yönlendiren bir buton -->
+            <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Alışverişe Devam Et</a>
+        </div>
+    </div>
+</body>
+</html>

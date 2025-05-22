@@ -1,0 +1,27 @@
+﻿@model BurakSteam.Models.Game
+
+<h2>Oyun Sil</h2>
+
+<div>
+    <h3>Bu oyunu silmek istediğinizden emin misiniz?</h3>
+    <p><strong>Ad:</strong> @Model.Name</p>
+    <p><strong>Tür:</strong> @Model.Genre</p>
+    <p><strong>Fiyat:</strong> @Model.Price</p>
+    <p><strong>Açıklama:</strong> @Model.Description</p>
+
+    @if (!string.IsNullOrEmpty(Model.ImagePath))
+    {
+            <img src="@Model.ImagePath" alt="@Model.Name" style="width:150px; height:150px;" />
+    }
+    else
+    {
+            <span>Resim Yok</span>
+    }
+</div>
+
+<form method="post">
+    <div class="form-group">
+        <input type="submit" value="Sil" class="btn btn-danger" />
+        <a href="@Url.Action("Index")" class="btn btn-secondary">İptal</a>
+    </div>
+</form>

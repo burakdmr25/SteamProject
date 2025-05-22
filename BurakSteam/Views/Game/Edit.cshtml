@@ -1,0 +1,112 @@
+﻿@model BurakSteam.Models.Game
+
+<h2>Oyun Düzenle</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+
+    <!-- Oyun Adı -->
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <!-- Oyun Türü -->
+    <div class="form-group">
+        <label asp-for="Genre" class="control-label"></label>
+        <input asp-for="Genre" class="form-control" />
+        <span asp-validation-for="Genre" class="text-danger"></span>
+    </div>
+
+    <!-- Fiyat -->
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+
+    <!-- Açıklama -->
+    <div class="form-group">
+        <label asp-for="Description" class="control-label"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <!-- Oyun Detayları (GameDetails) -->
+    <div class="form-group">
+        <label asp-for="GameDetails.Title" class="control-label">Başlık</label>
+        <input asp-for="GameDetails.Title" class="form-control" />
+        <span asp-validation-for="GameDetails.Title" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Developer" class="control-label">Geliştirici</label>
+        <input asp-for="GameDetails.Developer" class="form-control" />
+        <span asp-validation-for="GameDetails.Developer" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Publisher" class="control-label">Yayıncı</label>
+        <input asp-for="GameDetails.Publisher" class="form-control" />
+        <span asp-validation-for="GameDetails.Publisher" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Series" class="control-label">Seri</label>
+        <input asp-for="GameDetails.Series" class="form-control" />
+        <span asp-validation-for="GameDetails.Series" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="GameDetails.Languages" class="control-label">Diller</label>
+        <input asp-for="GameDetails.Languages" class="form-control" />
+        <span asp-validation-for="GameDetails.Languages" class="text-danger"></span>
+    </div>
+
+
+    <!-- Mevcut Resim -->
+    <div class="form-group">
+        <label>Mevcut Resim</label>
+        @if (!string.IsNullOrEmpty(Model.ImagePath))
+        {
+            <img src="@Model.ImagePath" alt="@Model.Name" style="width:150px; height:150px;" />
+        }
+        else
+        {
+            <span>Resim Yok</span>
+        }
+    </div>
+
+    <!-- Yeni Resim Yükle -->
+    <div class="form-group">
+        <label>Yeni Resim Yükle</label>
+        <input type="file" name="newImageFile" class="form-control" />
+    </div>
+
+    <!-- Mevcut Video -->
+    <div class="form-group">
+        <label>Mevcut Video</label>
+        @if (!string.IsNullOrEmpty(Model.VideoPath))
+        {
+            <video controls style="width:300px; height:auto;">
+                <source src="@Model.VideoPath" type="video/mp4">
+                Tarayıcınız bu videoyu desteklemiyor.
+            </video>
+        }
+        else
+        {
+            <span>Video Yok</span>
+        }
+    </div>
+
+    <!-- Yeni Video Yükle -->
+    <div class="form-group">
+        <label>Yeni Video Yükle</label>
+        <input type="file" name="newVideoFile" class="form-control" />
+    </div>
+
+    <!-- Kaydet Butonu -->
+    <div class="form-group">
+        <input type="submit" value="Kaydet" class="btn btn-primary" />
+    </div>
+</form>

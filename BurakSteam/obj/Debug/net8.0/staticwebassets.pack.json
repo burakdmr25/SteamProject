@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BurakSteam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BurakSteam.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\capsule_616x353.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\capsule_616x353.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\delta.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\delta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\demir.gif",
+      "PackagePath": "staticwebassets\\NewFolder\\demir.gif"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\elden.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\elden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\eren.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\eren.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\gta.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\gta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\NewFolder\\maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\NewFolder\\wallpaperr.gif",
+      "PackagePath": "staticwebassets\\NewFolder\\wallpaperr.gif"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943_1523ad3b-c719-4b86-ab85-c4d79451d3fc.jpg",
+      "PackagePath": "staticwebassets\\images\\2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943_1523ad3b-c719-4b86-ab85-c4d79451d3fc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\30dd9067302871.5b34f741efc0b (1)_6e44e6bc-20a0-42a3-9290-94828a52d6a4.jpg",
+      "PackagePath": "staticwebassets\\images\\30dd9067302871.5b34f741efc0b (1)_6e44e6bc-20a0-42a3-9290-94828a52d6a4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\5e849c6c5cdf9a21c0b4e731_2059d17b-8f9f-44da-91cb-baca2ae60d84.jpg",
+      "PackagePath": "staticwebassets\\images\\5e849c6c5cdf9a21c0b4e731_2059d17b-8f9f-44da-91cb-baca2ae60d84.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\5e849c6c5cdf9a21c0b4e731_73a59806-fae5-4466-b405-0b8f89059196.jpg",
+      "PackagePath": "staticwebassets\\images\\5e849c6c5cdf9a21c0b4e731_73a59806-fae5-4466-b405-0b8f89059196.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\71b50f29-5799-4be1-97ef-d58d57c9fe37_b9c4f1ae-b700-4f53-a8bc-2b24e588d067.jpg",
+      "PackagePath": "staticwebassets\\images\\71b50f29-5799-4be1-97ef-d58d57c9fe37_b9c4f1ae-b700-4f53-a8bc-2b24e588d067.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\91quqGK93dL.jpg",
+      "PackagePath": "staticwebassets\\images\\91quqGK93dL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S1_2560x1440-c44b7c8cf06d0ab3d63f5316c03b7c05_c10fa285-ee69-481c-8a91-c00fba58170a.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_HITMANWorldofAssassination_IOInteractiveAS_Bundles_S1_2560x1440-c44b7c8cf06d0ab3d63f5316c03b7c05_c10fa285-ee69-481c-8a91-c00fba58170a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6_b9366786-06f0-4db8-a15a-e1d8767b2c81.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6_b9366786-06f0-4db8-a15a-e1d8767b2c81.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6_e750464d-81cf-40a7-a4a3-653361ad1685.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_MarvelsSpiderManMilesMorales_InsomniacGamesNixxesSoftware_S2_1200x1600-58989e7116de3f70a2ae6ea56ee202c6_e750464d-81cf-40a7-a4a3-653361ad1685.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_SkyrimSpecialEdition_BethesdaGameStudios_S1_2560x1440-dcf7c2839f4a13b0d921a8f146c8c922.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_SkyrimSpecialEdition_BethesdaGameStudios_S1_2560x1440-dcf7c2839f4a13b0d921a8f146c8c922.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_SkyrimSpecialEdition_BethesdaGameStudios_S1_2560x1440-dcf7c2839f4a13b0d921a8f146c8c922_b5db5322-3cce-4cb7-b056-292f07363fe0.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_SkyrimSpecialEdition_BethesdaGameStudios_S1_2560x1440-dcf7c2839f4a13b0d921a8f146c8c922_b5db5322-3cce-4cb7-b056-292f07363fe0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f_eecab04d-b0b0-4694-b746-9563dbbe472e.jpg",
+      "PackagePath": "staticwebassets\\images\\EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S2_1200x1600-53a8fb2c0201cd8aea410f2a049aba3f_eecab04d-b0b0-4694-b746-9563dbbe472e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\Fo--games--fallout-4_121e667b-a936-4900-80b2-b6ae7881280a.jpg",
+      "PackagePath": "staticwebassets\\images\\Fo--games--fallout-4_121e667b-a936-4900-80b2-b6ae7881280a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\Fuke7skWIAgwTun.jpg",
+      "PackagePath": "staticwebassets\\images\\Fuke7skWIAgwTun.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\Fuke7skWIAgwTun_2b54636f-e7c8-4543-8934-384a5968d1c4.jpg",
+      "PackagePath": "staticwebassets\\images\\Fuke7skWIAgwTun_2b54636f-e7c8-4543-8934-384a5968d1c4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\LoL-S-Nasil-Alinir.jpg",
+      "PackagePath": "staticwebassets\\images\\LoL-S-Nasil-Alinir.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\LoL-S-Nasil-Alinir_f2a9bd63-a547-42b4-a1d1-e340bdf8e5c8.jpg",
+      "PackagePath": "staticwebassets\\images\\LoL-S-Nasil-Alinir_f2a9bd63-a547-42b4-a1d1-e340bdf8e5c8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\NMS_header_mobile_a8dea22c-a4a4-4cd4-9c31-995e2c2dba99.jpg",
+      "PackagePath": "staticwebassets\\images\\NMS_header_mobile_a8dea22c-a4a4-4cd4-9c31-995e2c2dba99.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\Skin_Output1461035931726.png",
+      "PackagePath": "staticwebassets\\images\\Skin_Output1461035931726.png"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\Skyrim Live Action Trailer.mp4",
+      "PackagePath": "staticwebassets\\images\\Skyrim Live Action Trailer.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\WhatsApp Görsel 2024-11-25 saat 20.44.59_c8f00bab.jpg",
+      "PackagePath": "staticwebassets\\images\\WhatsApp Görsel 2024-11-25 saat 20.44.59_c8f00bab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\apps.58752.13942869738016799.078aba97-2f28-440f-97b6-b852e1af307a (1)_c1bb9776-abd6-416b-9921-5555777803d9.jpg",
+      "PackagePath": "staticwebassets\\images\\apps.58752.13942869738016799.078aba97-2f28-440f-97b6-b852e1af307a (1)_c1bb9776-abd6-416b-9921-5555777803d9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\bnr-vrmode-re_e36e6be1-ddc0-4ad5-94df-5912f99a51b2.jpg",
+      "PackagePath": "staticwebassets\\images\\bnr-vrmode-re_e36e6be1-ddc0-4ad5-94df-5912f99a51b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\call-of-duty-modern-warfare-iii_24346813-3d2c-497b-a6a8-70c0d70b1abb.htm",
+      "PackagePath": "staticwebassets\\images\\call-of-duty-modern-warfare-iii_24346813-3d2c-497b-a6a8-70c0d70b1abb.htm"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\capsule_616x353_599e11a8-3b71-454f-ba95-ba178a81f327.jpg",
+      "PackagePath": "staticwebassets\\images\\capsule_616x353_599e11a8-3b71-454f-ba95-ba178a81f327.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\content_64d07b29636e0_78909.jpg",
+      "PackagePath": "staticwebassets\\images\\content_64d07b29636e0_78909.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\cs2_e25d48fb-9e26-4796-8505-a205cea48232.jpg",
+      "PackagePath": "staticwebassets\\images\\cs2_e25d48fb-9e26-4796-8505-a205cea48232.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\cyberpunk-ana_31ad5151-d63c-417f-b97d-fdb9490d2d2a.jpg",
+      "PackagePath": "staticwebassets\\images\\cyberpunk-ana_31ad5151-d63c-417f-b97d-fdb9490d2d2a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\cyberpunk-ana_b7c7d30e-9b88-4a1b-a074-ea5dc1671619.jpg",
+      "PackagePath": "staticwebassets\\images\\cyberpunk-ana_b7c7d30e-9b88-4a1b-a074-ea5dc1671619.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\cyberpunk-ana_e01ad5fb-3d4a-48e3-be1b-7cf3b93951a5.jpg",
+      "PackagePath": "staticwebassets\\images\\cyberpunk-ana_e01ad5fb-3d4a-48e3-be1b-7cf3b93951a5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\delta.jpg",
+      "PackagePath": "staticwebassets\\images\\delta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\elden.jpg",
+      "PackagePath": "staticwebassets\\images\\elden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\elden_b9693613-fbdc-4dd8-8645-115f7df8263a.jpg",
+      "PackagePath": "staticwebassets\\images\\elden_b9693613-fbdc-4dd8-8645-115f7df8263a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\eren-yeager-attack-on-titan-rage-desktop-wallpaper-4k.jpg",
+      "PackagePath": "staticwebassets\\images\\eren-yeager-attack-on-titan-rage-desktop-wallpaper-4k.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\geralltttt.jpg",
+      "PackagePath": "staticwebassets\\images\\geralltttt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\gta.jpg",
+      "PackagePath": "staticwebassets\\images\\gta.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\gtabes.jpg",
+      "PackagePath": "staticwebassets\\images\\gtabes.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\gtabes_7fe65385-ad8d-4a44-b63c-17fc23597314.jpg",
+      "PackagePath": "staticwebassets\\images\\gtabes_7fe65385-ad8d-4a44-b63c-17fc23597314.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\last samuray.jpg",
+      "PackagePath": "staticwebassets\\images\\last samuray.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\images\\maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\minecraft-v4-17549_51d69110-c000-48f5-bd9b-380217ce188a.jpg",
+      "PackagePath": "staticwebassets\\images\\minecraft-v4-17549_51d69110-c000-48f5-bd9b-380217ce188a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\qezXTVn1ExqBjVjR5Ipm97IK.avif",
+      "PackagePath": "staticwebassets\\images\\qezXTVn1ExqBjVjR5Ipm97IK.avif"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\ss_c97bcad291f4f45d4be4594f34bd78921d961099.1920x1080.jpg",
+      "PackagePath": "staticwebassets\\images\\ss_c97bcad291f4f45d4be4594f34bd78921d961099.1920x1080.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\topgun.webp",
+      "PackagePath": "staticwebassets\\images\\topgun.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\vanilla sky.webp",
+      "PackagePath": "staticwebassets\\images\\vanilla sky.webp"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\vrpUHxBJ8AX9zLT6MzbQrd_d12696f6-b22f-4eb0-a2c2-47844d8848dd.jpg",
+      "PackagePath": "staticwebassets\\images\\vrpUHxBJ8AX9zLT6MzbQrd_d12696f6-b22f-4eb0-a2c2-47844d8848dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\images\\wtcn.jpg",
+      "PackagePath": "staticwebassets\\images\\wtcn.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videolar\\elden.mp4",
+      "PackagePath": "staticwebassets\\videolar\\elden.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videolar\\webm_page_bg_turkish.webm",
+      "PackagePath": "staticwebassets\\videolar\\webm_page_bg_turkish.webm"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\ASSASSIN’S CREED VALHALLA \u00A0- CINEMATIC TV COMMERCIAL_e7ef66d0-87e7-4a58-b4ac-c2f2ef1baaef.mp4",
+      "PackagePath": "staticwebassets\\videos\\ASSASSIN’S CREED VALHALLA \u00A0- CINEMATIC TV COMMERCIAL_e7ef66d0-87e7-4a58-b4ac-c2f2ef1baaef.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Assassins Creed Odyssey E3 2018 Official World Premiere Trailer  Ubisoft [NA]_080b21c7-345d-4bb5-9b20-da4d3139ce66.mp4",
+      "PackagePath": "staticwebassets\\videos\\Assassins Creed Odyssey E3 2018 Official World Premiere Trailer  Ubisoft [NA]_080b21c7-345d-4bb5-9b20-da4d3139ce66.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Black Ops 6 - Gameplay Reveal Trailer_646e5eec-2bb3-4f72-bb95-d8cb2ae02f87.mp4",
+      "PackagePath": "staticwebassets\\videos\\Black Ops 6 - Gameplay Reveal Trailer_646e5eec-2bb3-4f72-bb95-d8cb2ae02f87.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Call of Duty Modern Warfare III - Gameplay Reveal Trailer  PS5 & PS4 Games_7419b594-b90a-4f13-bc3d-fc6c79b5efec.mp4",
+      "PackagePath": "staticwebassets\\videos\\Call of Duty Modern Warfare III - Gameplay Reveal Trailer  PS5 & PS4 Games_7419b594-b90a-4f13-bc3d-fc6c79b5efec.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Counter-Strike 2 - Official Launch Trailer_54857c23-0b55-42bf-a0be-81c4491e8a13.mp4",
+      "PackagePath": "staticwebassets\\videos\\Counter-Strike 2 - Official Launch Trailer_54857c23-0b55-42bf-a0be-81c4491e8a13.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_4857ff57-d950-467f-bec8-06caa01a6f44.mp4",
+      "PackagePath": "staticwebassets\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_4857ff57-d950-467f-bec8-06caa01a6f44.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_6b0702df-3796-472e-b05e-5e43d7928e63.mp4",
+      "PackagePath": "staticwebassets\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_6b0702df-3796-472e-b05e-5e43d7928e63.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_7a243596-f2a6-4f1a-a60a-f1691989d926.mp4",
+      "PackagePath": "staticwebassets\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_7a243596-f2a6-4f1a-a60a-f1691989d926.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_fa50d23d-9e85-4b22-8c2b-d331149c0f1d.mp4",
+      "PackagePath": "staticwebassets\\videos\\Cyberpunk 2077 - RTX 4090 Ultra Settings (4K + Raytracing)_fa50d23d-9e85-4b22-8c2b-d331149c0f1d.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Fallout 4 - The Wanderer Trailer_f25894fc-80a9-4de1-8e2e-cfa01beb5043.mp4",
+      "PackagePath": "staticwebassets\\videos\\Fallout 4 - The Wanderer Trailer_f25894fc-80a9-4de1-8e2e-cfa01beb5043.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Grand Theft Auto V The Official Trailer.mp4",
+      "PackagePath": "staticwebassets\\videos\\Grand Theft Auto V The Official Trailer.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Grand Theft Auto V The Official Trailer_96807e71-7eb8-44f4-8a54-afa92da201a1.mp4",
+      "PackagePath": "staticwebassets\\videos\\Grand Theft Auto V The Official Trailer_96807e71-7eb8-44f4-8a54-afa92da201a1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Grand Theft Auto V The Official Trailer_d73675f9-62ee-43a9-9047-33d1e6968176.mp4",
+      "PackagePath": "staticwebassets\\videos\\Grand Theft Auto V The Official Trailer_d73675f9-62ee-43a9-9047-33d1e6968176.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\HITMAN 3 - Dubai Cinematic Gameplay Trailer_c1795611-a8cc-4a2e-ad65-1f17834b20ab.mp4",
+      "PackagePath": "staticwebassets\\videos\\HITMAN 3 - Dubai Cinematic Gameplay Trailer_c1795611-a8cc-4a2e-ad65-1f17834b20ab.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Hades - Official Animated Trailer_fef7c9cf-983a-477d-9333-543327fc6e86.mp4",
+      "PackagePath": "staticwebassets\\videos\\Hades - Official Animated Trailer_fef7c9cf-983a-477d-9333-543327fc6e86.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Marvels Spider Man Miles Morales - Official World Premiere Announcement Trailer_a9908bb8-4566-426b-a3b4-828d8639b417.mp4",
+      "PackagePath": "staticwebassets\\videos\\Marvels Spider Man Miles Morales - Official World Premiere Announcement Trailer_a9908bb8-4566-426b-a3b4-828d8639b417.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Marvels Spider Man Miles Morales - Official World Premiere Announcement Trailer_f53b2772-33d6-42c1-83b2-4b5e248561f1.mp4",
+      "PackagePath": "staticwebassets\\videos\\Marvels Spider Man Miles Morales - Official World Premiere Announcement Trailer_f53b2772-33d6-42c1-83b2-4b5e248561f1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Metal Gear Solid Master Collection Vol. 1 - Official Release Date Trailer.mp4",
+      "PackagePath": "staticwebassets\\videos\\Metal Gear Solid Master Collection Vol. 1 - Official Release Date Trailer.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Metal Gear Solid Master Collection Vol. 1 - Official Release Date Trailer_bdf15e69-3d5c-4b0b-b8d0-9cf33cd349a8.mp4",
+      "PackagePath": "staticwebassets\\videos\\Metal Gear Solid Master Collection Vol. 1 - Official Release Date Trailer_bdf15e69-3d5c-4b0b-b8d0-9cf33cd349a8.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\No Mans Sky Worlds Part 1 - Official Trailer_bb60fb35-b393-40bd-a50e-af7988635ba9.mp4",
+      "PackagePath": "staticwebassets\\videos\\No Mans Sky Worlds Part 1 - Official Trailer_bb60fb35-b393-40bd-a50e-af7988635ba9.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Official Minecraft Trailer_9c027829-ff5b-44c6-9ba9-037b42eb8a1d.mp4",
+      "PackagePath": "staticwebassets\\videos\\Official Minecraft Trailer_9c027829-ff5b-44c6-9ba9-037b42eb8a1d.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Red Dead Redemption 2 Trailer_3cf65ae1-2631-4aef-a4d9-9a70b36c6537.mp4",
+      "PackagePath": "staticwebassets\\videos\\Red Dead Redemption 2 Trailer_3cf65ae1-2631-4aef-a4d9-9a70b36c6537.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Resident Evil 4 - Launch Trailer_e7ca0f18-94df-43e4-81da-a5236acf5ab2.mp4",
+      "PackagePath": "staticwebassets\\videos\\Resident Evil 4 - Launch Trailer_e7ca0f18-94df-43e4-81da-a5236acf5ab2.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Sinir olmiYCAAAAAAAHH!.mp4",
+      "PackagePath": "staticwebassets\\videos\\Sinir olmiYCAAAAAAAHH!.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Sinir olmiYCAAAAAAAHH!_bc98b4af-713e-49e4-baa3-1a28e6a27def.mp4",
+      "PackagePath": "staticwebassets\\videos\\Sinir olmiYCAAAAAAAHH!_bc98b4af-713e-49e4-baa3-1a28e6a27def.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Skyrim Live Action Trailer.mp4",
+      "PackagePath": "staticwebassets\\videos\\Skyrim Live Action Trailer.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Skyrim Live Action Trailer_323f57be-e1b6-406a-8254-4ef37ca81d31.mp4",
+      "PackagePath": "staticwebassets\\videos\\Skyrim Live Action Trailer_323f57be-e1b6-406a-8254-4ef37ca81d31.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\Stardew Valley - Multiplayer Trailer_50ea3800-60e9-4893-b339-4411e0373f72.mp4",
+      "PackagePath": "staticwebassets\\videos\\Stardew Valley - Multiplayer Trailer_50ea3800-60e9-4893-b339-4411e0373f72.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\The Witcher 3 Wild Hunt - The Sword of Destiny E3 2014 Trailer.mp4",
+      "PackagePath": "staticwebassets\\videos\\The Witcher 3 Wild Hunt - The Sword of Destiny E3 2014 Trailer.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\The Witcher 3 Wild Hunt - The Sword of Destiny E3 2014 Trailer_fef45f60-e162-4e15-b6d1-dcfad90cdf48.mp4",
+      "PackagePath": "staticwebassets\\videos\\The Witcher 3 Wild Hunt - The Sword of Destiny E3 2014 Trailer_fef45f60-e162-4e15-b6d1-dcfad90cdf48.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\elden.mp4",
+      "PackagePath": "staticwebassets\\videos\\elden.mp4"
+    },
+    {
+      "Id": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\wwwroot\\videos\\elden_ce9f567c-590b-426e-b22d-c0593360839a.mp4",
+      "PackagePath": "staticwebassets\\videos\\elden_ce9f567c-590b-426e-b22d-c0593360839a.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BurakSteam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BurakSteam.props",
+      "PackagePath": "build\\BurakSteam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BurakSteam.props",
+      "PackagePath": "buildMultiTargeting\\BurakSteam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BurakSteam.props",
+      "PackagePath": "buildTransitive\\BurakSteam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

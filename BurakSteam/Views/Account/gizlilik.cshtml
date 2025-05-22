@@ -1,0 +1,83 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik ve Kullanım Şartları</title>
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+        h1 {
+            font-size: 32px;
+            margin-bottom: 20px;
+            color: #f1c40f;
+        }
+
+        h2 {
+            font-size: 24px;
+            margin-top: 20px;
+        }
+
+        p {
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        .back-link {
+            margin-top: 30px;
+            font-size: 18px;
+            color: #f1c40f;
+            text-decoration: none;
+        }
+
+            .back-link:hover {
+                color: #e67e22;
+            }
+
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        li {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Gizlilik ve Kullanım Şartları</h1>
+
+    <h2>Gizlilik Politikası</h2>
+    <p>Bu gizlilik politikası, kullanıcı bilgilerinin nasıl toplandığı, kullanıldığı ve korunduğu hakkında bilgi vermektedir. Kullanıcıların gizliliği bizim için önemlidir ve aşağıdaki adımları atıyoruz:</p>
+    <ul>
+        <li><strong>Bilgi Toplama:</strong> Web sitemiz, kullanıcı bilgilerini yalnızca gerekli olduğunda toplar. Bu bilgiler, e-posta adresleri, IP adresleri ve diğer kişisel bilgileri içerebilir.</li>
+        <li><strong>Bilgilerin Kullanımı:</strong> Toplanan bilgiler yalnızca hizmetlerimizi sağlamak ve kullanıcı deneyimini iyileştirmek amacıyla kullanılacaktır.</li>
+        <li><strong>Veri Paylaşımı:</strong> Kullanıcı bilgileri üçüncü şahıslarla paylaşılmayacaktır, ancak yasal zorunluluklar nedeniyle bazı bilgiler yetkili makamlarla paylaşılabilir.</li>
+        <li><strong>Güvenlik:</strong> Kullanıcı bilgilerini korumak için modern güvenlik önlemleri alınmaktadır. Ancak, internet üzerinden yapılan veri iletiminin tamamen güvenli olacağına dair garanti verilemez.</li>
+    </ul>
+
+    <h2>Kullanım Şartları</h2>
+    <p>Web sitemize giriş yaparak aşağıdaki şartları kabul etmiş oluyorsunuz:</p>
+    <ul>
+        <li><strong>Hesap Oluşturma:</strong> Web sitemizde hesap oluşturmak için doğru ve eksiksiz bilgi vermelisiniz. Yanıltıcı bilgi vermek yasaktır.</li>
+        <li><strong>Kullanım Yasakları:</strong> Web sitemizin içeriğini izinsiz bir şekilde kopyalamak, dağıtmak veya tahrif etmek yasaktır.</li>
+        <li><strong>İçerik Sorumluluğu:</strong> Web sitemize yüklenen içeriklerden tamamen sorumlusunuz. Herhangi bir zararlı içerik yüklemek yasaktır.</li>
+        <li><strong>Hizmet Değişiklikleri:</strong> Web sitemiz, herhangi bir zamanda hizmetlerinde değişiklik yapma hakkına sahiptir.</li>
+    </ul>
+
+    <a href="@Url.Action("Index", "Home")" class="back-link">Geri Dön</a>
+</body>
+</html>

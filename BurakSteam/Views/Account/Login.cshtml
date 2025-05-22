@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Witcher - Giriş Yap</title>
+    <style>
+        /* Genel Sayfa Stil */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Arial', sans-serif;
+            background-image: url(../../wwwroot/images/wtcn.jpg);
+            background-size: cover;
+            color: #f0f0f0;
+        }
+
+        /* Giriş Formu Konteyner */
+        .login-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            backdrop-filter: blur(5px);
+        }
+
+        .login-box {
+            background: rgba(0, 0, 0, 0.8);
+            padding: 40px;
+            border-radius: 10px;
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+            text-align: center;
+            width: 100%;
+            max-width: 400px;
+        }
+
+            /* Başlık */
+            .login-box h2 {
+                font-size: 2rem;
+                font-weight: bold;
+                margin-bottom: 20px;
+                font-family: 'Georgia', serif;
+                letter-spacing: 2px;
+            }
+
+            /* Form */
+            .login-box form {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .login-box label {
+                text-align: left;
+                margin-bottom: 5px;
+                font-size: 1rem;
+                font-weight: bold;
+            }
+
+            .login-box input {
+                padding: 10px;
+                margin-bottom: 15px;
+                border: 1px solid #444;
+                border-radius: 5px;
+                background: #222;
+                color: #f0f0f0;
+                font-size: 1rem;
+                outline: none;
+            }
+
+                .login-box input:focus {
+                    border-color: #bb872d;
+                }
+
+            /* Beni Hatırla */
+            .login-box .form-group label input {
+                margin-right: 10px;
+            }
+
+            /* Buton */
+            .login-box button {
+                padding: 10px 20px;
+                background: #bb872d;
+                color: #fff;
+                font-size: 1.2rem;
+                font-weight: bold;
+                border: none;
+                border-radius: 5px;
+                cursor: pointer;
+                transition: background 0.3s ease;
+            }
+
+                .login-box button:hover {
+                    background: #9a6a21;
+                }
+
+            /* Link */
+            .login-box a {
+                color: #bb872d;
+                text-decoration: none;
+                font-size: 0.9rem;
+            }
+
+                .login-box a:hover {
+                    text-decoration: underline;
+                }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <h2>BURAK DEMİR Giriş</h2>
+            <form asp-action="Login" method="post">
+                <div class="form-group">
+                    <label for="Email">Email</label>
+                    <input type="email" id="Email" name="Email" value="@Model?.Email" required />
+                </div>
+                <div class="form-group">
+                    <label for="Password">Şifre</label>
+                    <input type="password" id="Password" name="Password" required />
+                </div>
+                <div class="form-group">
+                    <label>
+                        <input type="checkbox" name="RememberMe" /> Beni Hatırla
+                    </label>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Giriş Yap</button>
+                </div>
+                <div class="form-group">
+                    <a href="/Account/Register">Kayıt Olmadıysan Tıkla</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

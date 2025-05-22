@@ -1,0 +1,124 @@
+﻿@model BurakSteam.Models.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Kayıt Ol";
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;700&family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-image: url('https://example.com/witcher_background.jpg'); /* Witcher tarzı arka plan */
+            background-size: cover;
+            background-position: center;
+            color: #fff;
+           
+            justify-content: center;
+            align-items: center;
+        
+            text-align: center;
+        }
+
+        .container {
+            background-color: rgba(0, 0, 0, 0.7); /* Yarı saydam siyah arka plan */
+            padding: 40px;
+            border-radius: 15px;
+            max-width: 400px;
+            width: 100%;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        h2 {
+            font-family: 'Crimson Pro', serif;
+            font-size: 30px;
+            margin-bottom: 20px;
+            color: #f1c40f; /* Altın sarısı renk */
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            font-size: 16px;
+            color: #f1c40f;
+            margin-bottom: 5px;
+        }
+
+        input[type="email"], input[type="password"] {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 1px solid #f1c40f;
+            border-radius: 5px;
+            background-color: #333;
+            color: #fff;
+            margin-bottom: 10px;
+            outline: none;
+        }
+
+            input[type="email"]:focus, input[type="password"]:focus {
+                border-color: #e67e22; /* Turuncu renk */
+            }
+
+        .btn {
+            width: 100%;
+            padding: 12px;
+            font-size: 18px;
+            background-color: #e67e22; /* Turuncu buton */
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn:hover {
+                background-color: #d35400;
+            }
+
+        .form-group button {
+            margin-top: 10px;
+        }
+
+        .footer {
+            font-size: 14px;
+            color: #ccc;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>@ViewData["Title"]</h2>
+        <form asp-action="Register" method="post" class="form-horizontal">
+            <div class="form-group">
+                <label for="Email" class="control-label">Email</label>
+                <input type="email" id="Email" name="Email" class="form-control" value="@Model.Email" required />
+            </div>
+            <div class="form-group">
+                <label for="Password" class="control-label">Şifre</label>
+                <input type="password" id="Password" name="Password" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label for="ConfirmPassword" class="control-label">Şifre Tekrarı</label>
+                <input type="password" id="ConfirmPassword" name="ConfirmPassword" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn">Kayıt Ol</button>
+            </div>
+        </form>
+        <div class="footer">
+            <a href="@Url.Action("Gizlilik", "Account")" class="back-link">Gizlilik ve Kullanım Şartları</a>
+
+        </div>
+    </div>
+</body>
+</html>

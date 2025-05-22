@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241224150218_addgamegamedetailsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241224150218_addgamegamedetailsm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250101134521_gamedetailsupdateupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250101134521_gamedetailsupdateupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241224131943_addvideopathtogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241224131943_addvideopathtogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\controllers\\purchasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241223110149_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241223110149_game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241223112704_gameaddimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241223112704_gameaddimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\purchase\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\purchase\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\game\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\game\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\account\\gizlilik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\account\\gizlilik.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\paymentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\purchase\\completepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\purchase\\completepayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131012_User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131030_Purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\gamedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250103161339_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250103161339_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250103161323_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250103161323_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\game\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\game\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250101131352_gamedetailsupdatevideopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250101131352_gamedetailsupdatevideopath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241224145659_addgamedetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241224145659_addgamedetails.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241224150218_addgamegamedetailsm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241224150218_addgamegamedetailsm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241223112704_gameaddimage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241223112704_gameaddimage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250101131352_gamedetailsupdatevideopath.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250101131352_gamedetailsupdatevideopath.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241224131943_addvideopathtogame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241224131943_addvideopathtogame.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20241223110149_game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20241223110149_game.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250106154311_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250106154311_contactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250106140409_nulldate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250106140409_nulldate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250106141232_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250106141232_payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|c:\\users\\mrbur\\onedrive\\masa\u00FCst\u00FC\\buraksteam\\buraksteam\\migrations\\20250106133843_purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE1B53A-9C2E-400D-BCFC-08576D608292}|BurakSteam\\BurakSteam.csproj|solutionrelative:buraksteam\\migrations\\20250106133843_purchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BurakSteam\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BurakSteam\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAK0DAAAAAAAAAAAAAK0DAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-25T07:39:57.134Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241224150218_AddGameGameDetailsM.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T16:14:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\Game.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:54:11.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "BurakSteam\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:44:14.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BurakSteam\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:11:09.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241224131943_AddVideoPathToGame.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:47:31.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250101134521_GameDetailsUpdateUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250101134521_GameDetailsUpdateUpdate.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250101134521_GameDetailsUpdateUpdate.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250101134521_GameDetailsUpdateUpdate.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250101134521_GameDetailsUpdateUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:45:21.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\appsettings.json",
+              "RelativeDocumentMoniker": "BurakSteam\\appsettings.json",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\appsettings.json",
+              "RelativeToolTip": "BurakSteam\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T10:43:42.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\GameController.cs",
+              "RelativeToolTip": "BurakSteam\\Controllers\\GameController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:04:37.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PurchaseController.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\PurchaseController.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Controllers\\PurchaseController.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\PurchaseController.cs",
+              "RelativeToolTip": "BurakSteam\\Controllers\\PurchaseController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAAALAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:40:51.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\About\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T12:48:12.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "BurakSteam\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T12:47:49.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:26:02.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Purchase\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Purchase\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Purchase\\Checkout.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Purchase\\Checkout.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAkwKgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T13:56:42.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241223112704_GameAddImage.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223112704_GameAddImage.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241223112704_GameAddImage.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223112704_GameAddImage.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241223112704_GameAddImage.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:44:34.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241223110149_Game.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223110149_Game.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241223110149_Game.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223110149_Game.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241223110149_Game.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:32:06.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BurakSteam\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:23:16.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAIwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T15:35:20.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\ContactForm.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\ContactForm.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\ContactForm.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\ContactForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:41:49.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Details.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Game\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Details.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Game\\Details.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAwwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T13:21:44.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250106154311_ContactForm.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106154311_ContactForm.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250106154311_ContactForm.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106154311_ContactForm.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250106154311_ContactForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T15:43:11.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:25:18.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "BurakSteam\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "BurakSteam\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAD8AAAAAAAAAAADwv0gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-01T14:07:32.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "gizlilik.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Account\\gizlilik.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Account\\gizlilik.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Account\\gizlilik.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Account\\gizlilik.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAFAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T15:23:50.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T16:25:36.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAIwEcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T07:38:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250106140409_nulldate.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106140409_nulldate.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250106140409_nulldate.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106140409_nulldate.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250106140409_nulldate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:04:09.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PaymentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\PaymentViewModel.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\PaymentViewModel.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\PaymentViewModel.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\PaymentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:10:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CompletePayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Purchase\\CompletePayment.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Purchase\\CompletePayment.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Purchase\\CompletePayment.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Purchase\\CompletePayment.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-06T14:22:46.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250106141232_Payment.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106141232_Payment.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250106141232_Payment.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106141232_Payment.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250106141232_Payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:12:33.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\Purchase.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\Purchase.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\Purchase.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\Purchase.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:05:45.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250106131012_User.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131012_User.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131012_User.cs",
+              "ToolTip": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131012_User.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131012_User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:10:12.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250106131030_Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131030_Purchase.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131030_Purchase.cs",
+              "ToolTip": "C:\\Users\\mrbur\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131030_Purchase.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\BurakSteam\\BurakSteam\\Migrations\\20250106131030_Purchase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:10:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250106133843_Purchase.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106133843_Purchase.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250106133843_Purchase.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250106133843_Purchase.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250106133843_Purchase.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T13:38:43.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GameDetails.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\GameDetails.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\GameDetails.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\GameDetails.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\GameDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T14:53:36.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:10:07.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250103161339_Login.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250103161339_Login.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250103161339_Login.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250103161339_Login.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250103161339_Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:13:39.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250103161323_Register.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250103161323_Register.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250103161323_Register.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250103161323_Register.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250103161323_Register.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:13:23.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "BurakSteam\\Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:09:30.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Game\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-03T15:32:19.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Program.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Program.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Program.cs",
+              "RelativeToolTip": "BurakSteam\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAD4vxMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:43:01.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Game\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Edit.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Game\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T13:35:42.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Create.cshtml",
+              "RelativeDocumentMoniker": "BurakSteam\\Views\\Game\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Views\\Game\\Create.cshtml",
+              "RelativeToolTip": "BurakSteam\\Views\\Game\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T13:51:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:28:37.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250101131352_GameDetailsUpdateVideoPath.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:13:52.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241224145659_AddGameDetails.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224145659_AddGameDetails.Designer.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241224145659_AddGameDetails.Designer.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224145659_AddGameDetails.Designer.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241224145659_AddGameDetails.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:28:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241224150218_AddGameGameDetailsM.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.Designer.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.Designer.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.Designer.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241224150218_AddGameGameDetailsM.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:28:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20241223112704_GameAddImage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223112704_GameAddImage.Designer.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241223112704_GameAddImage.Designer.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223112704_GameAddImage.Designer.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241223112704_GameAddImage.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:28:22.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241224131943_AddVideoPathToGame.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.Designer.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.Designer.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.Designer.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241224131943_AddVideoPathToGame.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vwgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:25:11.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241223110149_Game.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223110149_Game.Designer.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20241223110149_Game.Designer.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20241223110149_Game.Designer.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20241223110149_Game.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:24:34.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250101131352_GameDetailsUpdateVideoPath.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.Designer.cs",
+              "RelativeDocumentMoniker": "BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.Designer.cs",
+              "ToolTip": "C:\\Users\\mrbur\\OneDrive\\Masa\u00FCst\u00FC\\BurakSteam\\BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.Designer.cs",
+              "RelativeToolTip": "BurakSteam\\Migrations\\20250101131352_GameDetailsUpdateVideoPath.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T13:25:21.327Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

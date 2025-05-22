@@ -1,0 +1,89 @@
+﻿@model IEnumerable<BurakSteam.Models.Game>
+@{
+    var currentPage = ViewBag.CurrentPage as int?;
+    var totalPages = ViewBag.TotalPages as int?;
+}
+
+<h1 class="text-center my-4">Oyun Listesi</h1>
+
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Ad</th>
+            <th>Tür</th>
+            <th>Fiyat</th>
+            <th>Resim</th>
+            <th>Video</th>
+            <th>Aksiyonlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var game in Model)
+        {
+            <tr>
+                <td style="color:white;">@game.Name</td>
+                <td style="color:white;">@game.Genre</td>
+                <td style="color:white;">@game.Price</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(game.ImagePath))
+                    {
+                        <img src="@game.ImagePath" alt="@game.Name" style="width: 100px; height: 100px;" />
+                    }
+                    else
+                    {
+                        <span>Resim Yok</span>
+                    }
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(game.GameDetails.VideoPath))
+                    {
+                        <video width="200" height="150" controls>
+                            <source src="@game.GameDetails.VideoPath" type="video/mp4" />
+                            Tarayıcınız bu videoyu desteklemiyor.
+                        </video>
+                    }
+                    else
+                    {
+                        <span>Video Yok</span>
+                    }
+                </td>
+
+                <td>
+                    <a asp-action="Details" asp-route-id="@game.Id" class="btn btn-info btn-sm m-1">Detaylar</a>
+                    <a asp-action="Edit" asp-route-id="@game.Id" class="btn btn-warning btn-sm m-1">Düzenle</a>
+                    <a asp-action="Delete" asp-route-id="@game.Id" class="btn btn-danger btn-sm m-1">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Sayfalama Kontrolleri -->
+<div class="d-flex justify-content-center mt-4">
+    <ul class="pagination">
+        @if (currentPage > 1)
+        {
+            <li class="page-item">
+                <a class="page-link" href="@Url.Action("Index", new { page = currentPage - 1 })">Önceki</a>
+            </li>
+        }
+
+        @for (var i = 1; i <= totalPages; i++)
+        {
+            <li class="page-item @((i == currentPage) ? "active" : "")">
+                <a class="page-link" href="@Url.Action("Index", new { page = i })">@i</a>
+            </li>
+        }
+
+        @if (currentPage < totalPages)
+        {
+            <li class="page-item">
+                <a class="page-link" href="@Url.Action("Index", new { page = currentPage + 1 })">Sonraki</a>
+            </li>
+        }
+    </ul>
+</div>
+
+<div class="d-flex justify-content-center mt-4">
+    <a asp-action="Create" class="btn btn-primary">Yeni Oyun Ekle</a>
+</div>

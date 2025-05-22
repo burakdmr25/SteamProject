@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - BurakSteam</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BurakSteam.styles.css" asp-append-version="true" />
+    <link href="~/css/site.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <a href="/" class="logo">
+            <img src="https://store.steampowered.com/public/shared/images/header/logo_steam.svg" alt="Steam Logo">
+            Steam
+        </a>
+        <nav>
+            <a href="/Home/Index">Mağaza</a>
+            <a href="/About/Index">Hakkımızda</a>
+            <a href="/Account/gizlilik">Gizlilik</a>
+            <a href="/Contact/Index">Destek</a>
+        </nav>
+        <div class="user-menu">
+            <a href="https://store.steampowered.com/about/"><button>Steam'i Kur</button></a>
+            @if (User.Identity.IsAuthenticated)
+            {
+                <a href="/Account/Logout">Çıkış Yap</a>
+            }
+            else
+            {
+                <a href="/Account/Login">Giriş Yap</a>
+            }
+        </div>
+    </header>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer>
+        <div class="footer-links">
+            <a href="/Home/Index">Mağaza</a>
+            <a href="/About/Index">Hakkımızda</a>
+            <a href="/Account/gizlilik">Gizlilik</a>
+            <a href="/Contact/Index">Destek</a>
+        </div>
+        <div class="footer-copyright">
+            &copy; 2025 burak demire aittir
+        </div>
+    </footer>
+    
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

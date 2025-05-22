@@ -1,0 +1,57 @@
+﻿@model BurakSteam.Models.Game
+
+@{
+    ViewData["Title"] = Model.Name;
+}
+
+<div class="container witcher-detail-page">
+    <!-- Oyun Başlık ve Arka Plan -->
+    <div class="witcher-hero" style="background-image: url('@Model.ImagePath');">
+        <div class="overlay">
+            <h1 class="witcher-title">@Model.Name</h1>
+            <p class="witcher-genre">@Model.Genre</p>
+        </div>
+    </div>
+
+    <!-- Oyun Detayları ve Video -->
+    <div class="row mt-5">
+        <div class="col-md-8">
+            @if (!string.IsNullOrEmpty(Model.GameDetails?.VideoPath))
+            {
+                <div class="witcher-video-wrapper">
+                    <video id="gameVideo" controls class="witcher-video">
+                        <source src="@Model.GameDetails.VideoPath" type="video/mp4">
+                        Tarayıcınız bu videoyu oynatmayı desteklemiyor.
+                    </video>
+                </div>
+            }
+            <div class="purchase-box">
+                <!-- Sepete Ekle Butonu -->
+                <a href="@Url.Action("AddToCart", "Purchase", new { gameId = Model.Id })" class="witcher-btn">
+                    <span>Sepete Ekle:</span>
+                    <strong>@Model.Price.ToString("C")</strong>
+                </a>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="witcher-details">
+                <h3>Oyun Bilgileri</h3>
+                <p><strong>Tür:</strong> @Model.GameDetails?.Genre</p>
+                <p><strong>Başlık:</strong> @Model.GameDetails?.Title</p>
+                <p><strong>Geliştirici:</strong> @Model.GameDetails?.Developer</p>
+                <p><strong>Yayıncı:</strong> @Model.GameDetails?.Publisher</p>
+                <p><strong>Seri:</strong> @Model.GameDetails?.Series</p>
+                <p><strong>Diller:</strong> @Model.GameDetails?.Languages</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Açıklama -->
+    <div class="row mt-5">
+        <div class="col-md-12">
+            <div class="witcher-description-box">
+                <h3>Oyun Açıklaması</h3>
+                <p>@Model.Description</p>
+            </div>
+        </div>
+    </div>
